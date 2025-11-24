@@ -1,0 +1,4 @@
+Biology;Mr.Erlan
+Algebra;Mr.Kutman
+ICT;Mr.Nursultan
+Geometry;Mr.Daniel
